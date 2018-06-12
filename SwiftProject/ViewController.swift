@@ -27,8 +27,8 @@ class ViewController: UIViewController {
         varB = 3.1415926
         print(varB)
         
-        var name = "菜鸟教程111111"
-        var site = "http://www.runoob.com"
+        var name = "菜鸟教程111111111333331"
+        var site = "http://www.runoob777.com"
         
         print("\(name)的官网地址为：\(site)")
         //可选类型
